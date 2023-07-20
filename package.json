@@ -1,0 +1,10 @@
+{
+  "name": "yantracker-test",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.1.4"
+  }
+}
